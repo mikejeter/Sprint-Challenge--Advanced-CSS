@@ -42,11 +42,18 @@ The difference between mobile first and desktop first is, with desktop first you
 
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
 
+When specified on the font-size property of the root element, the rem units refer to the property’s initial value.This means that 1rem equals the font size of the html element which for most browsers has a default value of 16px.
+
+
 4. How would you describe preprocessing to someone new to CSS?
 
 The way I would describe preprocessing to someone new in CSS is preprocessing is a scripting language that gives more functionality to CSS.
 
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
+
+I like preprocessing because it allows CSS to have more functions than the manual CSS.
+
+The concept that gives me the most trouble is the mixins but I am getting better at it.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
